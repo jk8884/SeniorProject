@@ -1,0 +1,34 @@
+[debug] [2022-01-29T11:22:05.411Z] ----------------------------------------------------------------------
+[debug] [2022-01-29T11:22:05.414Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ljuri\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2022-01-29T11:22:05.415Z] CLI Version:   10.1.2
+[debug] [2022-01-29T11:22:05.415Z] Platform:      win32
+[debug] [2022-01-29T11:22:05.415Z] Node Version:  v16.13.2
+[debug] [2022-01-29T11:22:05.421Z] Time:          Sat Jan 29 2022 12:22:05 GMT+0100 (Central European Standard Time)
+[debug] [2022-01-29T11:22:05.422Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-01-29T11:22:05.434Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] Already logged in as lj4252@g.rit.edu
+[debug] [2022-01-29T11:34:31.801Z] ----------------------------------------------------------------------
+[debug] [2022-01-29T11:34:31.803Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ljuri\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-01-29T11:34:31.804Z] CLI Version:   10.1.2
+[debug] [2022-01-29T11:34:31.804Z] Platform:      win32
+[debug] [2022-01-29T11:34:31.804Z] Node Version:  v16.13.2
+[debug] [2022-01-29T11:34:31.805Z] Time:          Sat Jan 29 2022 12:34:31 GMT+0100 (Central European Standard Time)
+[debug] [2022-01-29T11:34:31.805Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-01-29T11:34:31.808Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2022-01-29T11:34:31.831Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-01-29T11:34:31.832Z] > authorizing via signed-in user (lj4252@g.rit.edu)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ljuri\Desktop\WORK\senior-project-app
+
+[debug] [2022-01-29T11:34:34.280Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2022-01-29T11:34:34.280Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
